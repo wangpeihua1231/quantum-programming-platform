@@ -11,7 +11,7 @@ Other libraries required in the usage examples will be stated in this document.
 # Usage Example: Half Adder
 
 # Usage Example: Machine Learning
-Required libraries: qiskit_algorithms, qiskit_machine_learning, sklearn
+For Qiskit implementation, additional libraries are required: qiskit_algorithms, qiskit_machine_learning, sklearn
+For PennyLane implementation, the iris dataset is imported from a text file named iris_data.txt.
 
-The data used to build the models is the famous iris dataset, which can be loaded from sklearn.datasets.
-The codes to build Qiskit is .py.
+The codes to build machine learning model in usage examples for Qiskit and PennyLane are qiskit_ML.py and pennylane_ML.py, respectively.
