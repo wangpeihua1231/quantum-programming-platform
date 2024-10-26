@@ -7,6 +7,7 @@ Other libraries required in the usage examples will be stated in this document.
 # Generation of Figure 1 & 2
 
 # Generation of Figure 5 & 6
+The Figure 5 & 6 visualizing the quantum circuits of Qiskit ZZFeatureMap and ansatz layer used in machine learning can be generated using qiskit_circuit_visualization.py.
 
 # Usage Example: Half Adder
 
