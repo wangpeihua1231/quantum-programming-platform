@@ -9,7 +9,7 @@ The Figure 1 & 2 visualizing the statevector in Qiskit with LaTeX parameter and 
 using statevector.ipynb. This code emplement in jupyter, with qiskit version: 0.44.1. 
 
 # Generation of Figure 5 & 6
-The Figure 5 & 6 visualizing the quantum circuits of Qiskit ZZFeatureMap and ansatz layer used in machine learning can be generated using qiskit_circuit_visualization.py.
+The Figure 5a & 6a visualizing the quantum circuits of Qiskit ZZFeatureMap and ansatz layer used in machine learning can be generated using qiskit_circuit_visualization.py. The Figure 5b & 6b counterparts in PennyLane can be generated using pennylane_circuit_visualization.ipynb.
 
 # Usage Example: Half Adder
 For Half Adder implementation, additional libraries are required: qiskit-aer. Usage example is in half_adder.ipynb. This code is emplement in jupyter, with qiskit version: 0.44.1.
