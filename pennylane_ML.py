@@ -57,7 +57,7 @@ def cost(weights, bias, features, labels):
     return square_loss(labels, predictions)
 
 
-data = np.loadtxt("iris_data.txt")
+data = np.loadtxt("iris_data.txt", delimiter = ',')
 X = data[:, 0:2]
 print("First X sample (original)  :", X[0])
 
