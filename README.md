@@ -5,8 +5,7 @@ Installation of Qiskit and PennyLane are necessary for their usage.
 Other libraries required in the usage examples will be stated in this document.
 
 # Generation of Figure 1 & 2
-The Figure 1 & 2 visualizing the statevector in Qiskit with LaTeX parameter and without parameter. It can be generated 
-using statevector.ipynb. This code emplement in jupyter, with Qiskit version: 0.44.1. 
+The Figure 1 & 2 visualizing the statevector in Qiskit with LaTeX parameter and without parameter. It can be generated using statevector_qiskit.ipynb. This code emplement in jupyter, with Qiskit version: 0.44.1. The pennylane part can be generated using statevector_pennylane.py, with Pennylane version 0.32.0.
 
 # Generation of Figure 5 & 6
 The Figure 5a & 6a visualizing the quantum circuits of Qiskit ZZFeatureMap and ansatz layer used in machine learning can be generated using qiskit_circuit_visualization.py. The Figure 5b & 6b counterparts in PennyLane can be generated using pennylane_circuit_visualization.ipynb.
