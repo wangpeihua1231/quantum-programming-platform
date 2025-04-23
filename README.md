@@ -17,4 +17,4 @@ The Figure 5a & 6a visualizing the quantum circuits of Qiskit ZZFeatureMap and a
 # Usage Example: Machine Learning
 For Qiskit implementation, additional libraries are required: qiskit_ibm_runtime (version 0.38.0) and qiskit_machine_learning (version 0.8.2). The AqSolDB dataset is imported from the csv file named curated_solubility_dataset.csv.
 
-The codes to build machine learning model in usage examples for Qiskit and PennyLane are qiskit_ML.py and pennylane_ML.py, respectively.
+The codes to build machine learning model in usage examples for Qiskit and PennyLane are qiskit_ML.ipynb and pennylane_ML.ipynb, respectively.
