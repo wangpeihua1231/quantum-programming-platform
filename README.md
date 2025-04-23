@@ -1,5 +1,5 @@
 # quantum-programming-platform
-This repository consist of codes and data used in the journal article "Advantages of Two Quantum Programming Platforms Advantage in Quantum Computing and Quantum Chemistry".
+This repository consist of codes and data used in the journal article "Advantages of Two Quantum Programming Platforms in Quantum Computing and Quantum Chemistry".
 
 Installation of Qiskit and PennyLane are necessary for their usage.
 In this tutorial, the codes are implenmented using Qiskit version 1.4.1 and PennyLane version 0.41.0.
