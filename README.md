@@ -15,6 +15,6 @@ The Figure 5a visualizing the quantum circuits of Qiskit ZZFeatureMap and ansatz
 2. Half Adder implementation on Pennylane, Usage example is in half_adder_pennylane.ipynb. This code is implement in jupyter, with Pennylane version 0.32.0.
 
 # Usage Example: Machine Learning
-For Qiskit implementation, additional libraries are required: qiskit_ibm_runtime (version 0.38.0) and qiskit_machine_learning (version 0.8.2). The AqSolDB dataset is imported from the csv file named curated_solubility_dataset.csv.
+For Qiskit implementation, qiskit_machine_learning (version 0.8.2) is required. The AqSolDB dataset is imported from the csv file named curated_solubility_dataset.csv.
 
 The codes to build machine learning model in usage examples for Qiskit and PennyLane are qiskit_ML.ipynb and pennylane_ML.ipynb, respectively.
